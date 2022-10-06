@@ -19,4 +19,5 @@ urlpatterns = [
     path('fkip/', prodi7),
     path('ft/', prodi8),
     path('pascasarjana/', prodi9),
+    
 ]
